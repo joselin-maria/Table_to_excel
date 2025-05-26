@@ -1,0 +1,10 @@
+timm==0.9.2
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+streamlit==1.21.0
+pandas
+transformers==4.29.1
+Pillow==10.0.1
+paddlepaddle
+paddleocr
